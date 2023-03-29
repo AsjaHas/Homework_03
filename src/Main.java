@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Homework 03" + "\n");
         System.out.println("Task 01" + "\n");
-        //Napravite program kojem mozete pri pokretanju reci koliki niz zelite zatim da popunite niz sa int brojevima.
+        // Napravite program kojem mozete pri pokretanju reci koliki niz zelite zatim da popunite niz sa int brojevima.
         // Zatim ispisite sve brojeve po jedan broj po redu (println)
         // na ispisu svih brojeva kod mora ispisati obrnuti  redosljed(ne index) u nizu
         // te da li je broj paran ili ne kao i da li je veci od 10
