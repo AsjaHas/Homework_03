@@ -217,7 +217,7 @@ public class Main {
                     wordContainsVowel = true;
                 }
             }
-            // Place words without vowels at the begining of the words array
+//            Place words without vowels at the begining of the words array
             if (wordContainsVowel == false) {
                 words[counter] = words[i];
                 counter++;
