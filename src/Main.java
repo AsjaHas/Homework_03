@@ -12,7 +12,7 @@ public class Main {
         // Variables used for determining are the input numbers even or odd, and are they bigger than a certain number (in case they need to be changed)
         int divisor = 2;
         int biggerThan = 10;
-        //Napravite program kojem mozete pri pokretanju reci koliki niz zelite
+        //Asks user how long the array should be
         System.out.println("How many numbers would you like to add to array?");
         //Reads console input
         int numbersInArray = reader.nextInt();
